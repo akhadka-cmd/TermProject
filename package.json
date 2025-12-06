@@ -1,0 +1,19 @@
+{
+  "name": "termproject",
+  "version": "1.0.0",
+  "description": "This is term project.",
+  "main": "index.js",
+  "scripts": {
+    "sass-build": "sass --no-source-map scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akhadka-cmd"
+  },
+  "author": "Aayush Khadka",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "sass": "^1.94.2"
+  }
+}
