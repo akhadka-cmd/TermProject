@@ -41,7 +41,7 @@ Start Apache and MySQL from XAMPP.
 
 Open your browser and go to:
 
-http://localhost/your-project-folder-name
+http://localhost/TermProject
 
 The sql file is in the db folder.
 
